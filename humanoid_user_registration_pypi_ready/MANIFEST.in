@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+recursive-include src/humanoid_user_registration *.py
+recursive-include tests *.py

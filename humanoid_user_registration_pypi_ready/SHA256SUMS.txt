@@ -1,0 +1,2 @@
+b488b34b6994008da2470c0e2a7edf0d473b79b082a9e1617ca186444f923605  dist/humanoid_user_registration-1.0.0-py3-none-any.whl
+69a4dad681a0da3c896013c0d32acdbb5507be0a63f462d33e0bd13fb57da255  dist/humanoid_user_registration-1.0.0.tar.gz
